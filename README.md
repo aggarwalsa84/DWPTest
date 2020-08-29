@@ -1,6 +1,6 @@
 # DWPTest
 
-The following changes have been made for the online assessment
+The following changes have been made for the online assessment(select Java 11 while importing to ide)
 
     1) Taking input from api user for the city, radius to increase the dynamic behaviour of the API.
     2) A utility class has been created to evaluate the distance from one point to another
